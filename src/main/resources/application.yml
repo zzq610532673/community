@@ -1,2 +1,9 @@
 server:
   port: 8887
+
+github:
+    client:
+        id: f888de0754456699da6d
+        secret: 769c556e7b949d5e9cbe34ebdb5573521d8e1ba1
+    redirect:
+      uri: http://localhost:8887/callback
